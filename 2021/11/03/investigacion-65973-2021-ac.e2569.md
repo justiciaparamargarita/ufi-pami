@@ -8,6 +8,7 @@ cc: "kuchasky@gmail.com"
 asunto: "Re: Investigación 65973/2021 AC"
 adjuntos: "20200311_202056.jpg; 20200323_203332.jpg; foto-familiares.jpeg; 20200408_125106a.jpg; 20200713_152449_permisos.jpg; 20200320_144704_auditor_medico.jpg"
 hilo: "e2569"
+responde_a: "e2819"
 origen_email: "fuentes/emails/justiciaparamargarita.ar/2021-11/investigacion-65973-2021-ac.e2569.eml"
 sha256: "6b1949892975571c4480a90d733b4e081a67aebb7f3154bf6114d3b3eb4ac6ed"
 ---
@@ -105,39 +106,6 @@ Pero cuando en su hospital una persona de 76 años queda abandonada al tipo no l
 ---
 
 Saludos
-
-El 2/11/21 a las 12:11, _Unidad Fiscal de Investigacion PAMI escribió:
-> 
-> 
-> Buenos días Sr. Koschiuk:
-> 
-> 
-> Tengo el agrado de dirigirme a UD. con motivo de la denuncia que usted envió a esta Unidad Fiscal que investiga delitos cometidos en el ámbito de Pami y su ampliación recibida el día de hoy. A raíz de ello, se inició el legajo N° 65.973/2021.
-> 
-> El contacto tiene por objeto recabar la información necesaria y esencial para determinar el o los hechos a investigar y de ser posible, individualizar a los responsables. Atento a  extenso relato, tenga a bien indicar los nuevos hechos que desea denunciar y manifestar dónde tramitaron las denuncias que efectuó en el pasado contra el Hospital Piñeiro, además de la denuncia de la Fiscalía Contravencional y Faltas N°20.
-> 
-> Asimismo le pido que aporte los números de reclamo administrativos efectuados a ¨PAMI para el traslado de su madre a un geriátrico asignado o a otro prestador hospitalario y su teléfono de contacto.
-> 
-> Atte.-
-> Andrea Corona
-> Prosecretaria
-> 
-> 
-> [https://recursos.mpf.gov.ar/StaticContent/logos/generador-firma/logo_firma_FISCALIA.png]
-> 
-> UFI-PAMI
-> 
-> Sarmiento 657, entrepiso - C.P.: 1041
-> 
-> Ciudad Autónoma de Buenos Aires - Tel.: +54 11 43287361
-> 
-> http://www.mpf.gob.ar/ | http://www.fiscales.gob.ar/
-> 
-> ufi-pami@mpf.gov.ar
-> 
-> 
-> 
->
 
 - adjunto `20200311_202056.jpg`: `causas/pruebas/2020/03/11/20200311_202056.jpg`
 - adjunto `20200323_203332.jpg`: `causas/pruebas/2020/03/23/20200323_203332.jpg`
